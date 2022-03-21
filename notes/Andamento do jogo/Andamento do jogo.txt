@@ -1,0 +1,3 @@
+Detalhando o que está sendo feito em cada passo do jogo.
+
+1 - Mover o player para a esquerda
