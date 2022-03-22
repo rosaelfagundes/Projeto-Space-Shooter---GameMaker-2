@@ -9,3 +9,15 @@ Detalhando o que está sendo feito em cada passo do jogo.
 2 - Ajustando o tamanho da room e da viewport - FEITO
 	2.1 - Criando uma câmera e um viewport para o jogo - FEITO
 	2.2 - Ajustando a dimensão da Room - FEITO
+	
+3 - Atirando!!!!!
+	3.1 - Importando as sprites do tiro e criando o objeto - FEITO
+	3.2 - Fazendo o tiro ir para cima - FEITO
+	3.3 - Fazendo o jogador atirar ao apertar espaço - FEITO
+	3.4 - Dando um efeito legal para o tiro - FEITO
+		3.4.1 - Fazendo o tiro sair grande e depois diminuir um pouco - FEITO
+	3.5 - Destruindo o tiro após sair da room - FEITO
+	
+4 - Criando os inimigos
+	4.1 - Importando as sprites e criando os objetos
+	4.2 - Fazendo o inimigo cair
