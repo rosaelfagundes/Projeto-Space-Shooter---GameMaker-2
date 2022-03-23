@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Destruindo o tiro quando ele sair da room
 // You can write your code in this editor
 
 //Destruindo o tiro quando ele sair da room

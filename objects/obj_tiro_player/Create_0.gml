@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Iniciando as variáveis
 
 
 //Movendo a bala para cima

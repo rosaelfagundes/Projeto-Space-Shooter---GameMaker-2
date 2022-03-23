@@ -19,5 +19,15 @@ Detalhando o que está sendo feito em cada passo do jogo.
 	3.5 - Destruindo o tiro após sair da room - FEITO
 	
 4 - Criando os inimigos
-	4.1 - Importando as sprites e criando os objetos
-	4.2 - Fazendo o inimigo cair
+	4.1 - Importando as sprites e criando os objetos - FEITO
+	4.2 - Fazendo a movimentação inicial do inimigo - FEITO
+	
+5 - Fazendo o inimigo 1 atirar
+	5.1 - Importando as sprites e criando os objetos - FEITO
+	5.2 - Fazendo o tiro do inimigo ir para baixo - FEITO
+	5.3 - Fazendo o inimigo atirar após um tempo - FEITO
+	
+Criação de Métodos
+
+6 - Adicionando sistema de colisão no jogo
+	6.1 - 
