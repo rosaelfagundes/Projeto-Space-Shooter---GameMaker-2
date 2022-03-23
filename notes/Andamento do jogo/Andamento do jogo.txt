@@ -30,4 +30,14 @@ Detalhando o que está sendo feito em cada passo do jogo.
 Criação de Métodos
 
 6 - Adicionando sistema de colisão no jogo
-	6.1 - 
+	6.1 - Se destruir ao acertar o inimigo - FEITO
+	6.2 - Criar o impacto do tiro do tiro do player - FEITO
+	6.3 - Fazendo o impacto do tiro desaparecer - FEITO
+	6.4 - Fazer com que não tenha impacto quando sair da room - FEITO
+	6.5 -  -
+
+7 - Criar o impacto do tiro do inimigo e ser destruído - FEITO
+	7.1 - Destruindo o tiro inimigo quando sair da room - FEITO
+
+8 - Destruindo o inimigo
+	8.1 - Fazer o tiro do player destruir também o inimigo - 

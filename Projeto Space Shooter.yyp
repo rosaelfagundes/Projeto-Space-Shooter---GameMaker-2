@@ -4,11 +4,13 @@
     {"id":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},"order":0,},
     {"id":{"name":"Andamento do jogo","path":"notes/Andamento do jogo/Andamento do jogo.yy",},"order":0,},
     {"id":{"name":"spr_inimigo1","path":"sprites/spr_inimigo1/spr_inimigo1.yy",},"order":0,},
+    {"id":{"name":"obj_impacto_tiro","path":"objects/obj_impacto_tiro/obj_impacto_tiro.yy",},"order":0,},
     {"id":{"name":"spr_tiro_inimigo1","path":"sprites/spr_tiro_inimigo1/spr_tiro_inimigo1.yy",},"order":1,},
     {"id":{"name":"obj_tiro_inimigo1","path":"objects/obj_tiro_inimigo1/obj_tiro_inimigo1.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_tiro_player","path":"objects/obj_tiro_player/obj_tiro_player.yy",},"order":1,},
     {"id":{"name":"spr_tiro_player","path":"sprites/spr_tiro_player/spr_tiro_player.yy",},"order":1,},
+    {"id":{"name":"spr_impacto_tiro","path":"sprites/spr_impacto_tiro/spr_impacto_tiro.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -44,6 +46,8 @@
     {"folderPath":"folders/Sprites/Inimigos.yy","order":5,"resourceVersion":"1.0","name":"Inimigos","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Player.yy","order":4,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Inimigo.yy","order":5,"resourceVersion":"1.0","name":"Inimigo","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Etc.yy","order":6,"resourceVersion":"1.0","name":"Etc","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Etc.yy","order":6,"resourceVersion":"1.0","name":"Etc","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

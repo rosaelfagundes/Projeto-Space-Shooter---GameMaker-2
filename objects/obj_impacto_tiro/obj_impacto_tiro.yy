@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_inimigo1",
-    "path": "sprites/spr_inimigo1/spr_inimigo1.yy",
+    "name": "spr_impacto_tiro",
+    "path": "sprites/spr_impacto_tiro/spr_impacto_tiro.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,18 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Inimigo",
-    "path": "folders/Objects/Inimigo.yy",
+    "name": "Etc",
+    "path": "folders/Objects/Etc.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_inimigo1",
+  "name": "obj_impacto_tiro",
   "tags": [],
   "resourceType": "GMObject",
 }

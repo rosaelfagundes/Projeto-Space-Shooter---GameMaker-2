@@ -12,6 +12,6 @@ atirando_inimigo1 = function()
 {
 	if(y >= 0)
 	{
-		instance_create_layer(x - 3, y + sprite_height, "Tiro", obj_tiro_inimigo1 );
+		instance_create_layer(x - 3, y + sprite_height/3, "Tiro", obj_tiro_inimigo1 );
 	}
 }
