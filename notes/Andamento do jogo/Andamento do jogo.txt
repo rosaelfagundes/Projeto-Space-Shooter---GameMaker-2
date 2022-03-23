@@ -34,10 +34,22 @@ Criação de Métodos
 	6.2 - Criar o impacto do tiro do tiro do player - FEITO
 	6.3 - Fazendo o impacto do tiro desaparecer - FEITO
 	6.4 - Fazer com que não tenha impacto quando sair da room - FEITO
-	6.5 -  -
 
 7 - Criar o impacto do tiro do inimigo e ser destruído - FEITO
 	7.1 - Destruindo o tiro inimigo quando sair da room - FEITO
 
 8 - Destruindo o inimigo
-	8.1 - Fazer o tiro do player destruir também o inimigo - 
+	8.1 - Fazer o tiro do player destruir também o inimigo - FEITO
+	8.2 - Criando uma explosão ao destruir o inimigo - FEITO
+		8.2.1 - Criar a Sprite da explosão - FEITO
+		8.2.2 - Criar o objeto da explosão - FEITO
+		8.2.3 - Fazer o inimigo instanciar a explosão ao morrer - FEITO
+		8.2.4 - Fazer a animação da explosão sumir após terminar - FEITO
+		
+9 - Pequenos ajustes
+	9.1 - Fazer o inimigo ser destruído ao sair da tela - FEITO
+	9.2 - Deixando o tiro mais bonito - FEITO
+
+10 - Criando o background
+	10.1 - Dando background - FEITO
+	10.2 - Efeito Parallax - FEITO
