@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_brilho_tiro1","path":"sprites/spr_brilho_tiro1/spr_brilho_tiro1.yy",},"order":2,},
     {"id":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},"order":0,},
     {"id":{"name":"Andamento do jogo","path":"notes/Andamento do jogo/Andamento do jogo.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},

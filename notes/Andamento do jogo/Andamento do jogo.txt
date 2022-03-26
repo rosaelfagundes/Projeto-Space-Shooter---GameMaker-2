@@ -48,7 +48,7 @@ Criação de Métodos
 		
 9 - Pequenos ajustes
 	9.1 - Fazer o inimigo ser destruído ao sair da tela - FEITO
-	9.2 - Deixando o tiro mais bonito - FEITO
+	9.2 - Deixando o tiro mais bonito - 
 
 10 - Criando o background
 	10.1 - Dando background - FEITO
