@@ -8,5 +8,8 @@ vspeed = 6;
 image_yscale = 3;
 image_xscale = 3;
 
+//Fazendo escolher cores aleatoriamente
+cores = choose (c_lime, c_green);
+
 //Fazendo o alarm
-alarm[0] = 2;
+//alarm[0] = 2;
