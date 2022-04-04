@@ -57,12 +57,33 @@ Criação de Métodos
 		9.2.6 - Criar a variável de imagens - FEITO
 		9.2.7 - Usar o lerp para diminuir o tamanho - FEITO
 	9.3 - Deixando as explosões mais bonitas
-		9.3.1 - Criar o Draw Event -
-		9.3.2 - Se desenhar -
-		9.3.3 - Me desenhar um pouco maior -
-		9.3.4 - Alterar como a GPU processa a mistura de cores -
-		9.3.5 - Criar a variável de cor -
+		9.3.1 - Criar o Draw Event - FEITO
+		9.3.2 - Se desenhar - FEITO
+		9.3.3 - Me desenhar um pouco maior - FEITO
+		9.3.4 - Alterar como a GPU processa a mistura de cores - FEITO
+		9.3.5 - Criar a variável de cor - FEITO
 
 10 - Criando o background
 	10.1 - Dando background - FEITO
 	10.2 - Efeito Parallax - FEITO
+	
+11 - Criando o segundo inimigo
+	11.1 - Importar a sprite - FEITO
+	11.2 - Criar o objeto - FEITO
+	11.3 - Fazendo o inimigo 2 herdar as características do inimigo 1 - FEITO
+	11.4 - Mudar de direção quando chegar no meio da room - 
+		11.4.1 - Checando o X do inimigo 2 - FEITO
+			11.4.1.1 - Falando se está na direita - FEITO
+			11.4.1.2 - Falando se está na esquerda - FEITO
+	11.5 - Mudar ele de direção - FEITO
+	11.6 - Fazer ele criar o próprio tiro - FEITO
+		11.6.1 - Criar a função atirando - FEITO
+	
+12 - Criando o tiro do inimigo 2
+	12.1 - Criando a sprite - FEITO
+	12.2 - Criando o objeto - FEITO
+	12.3 - Fazendo ele herdar os eventos do tiro inimigo 1 - FEITO
+	12.4 - Iniciar indo na direção do player - FEITO
+	12.5 - Apontando para a direção do player - FEITO
+		12.5.1 - Fazendo ela ganhar 90° - FEITO
+	12.6 - Ir na direção do player APENAS quando ele existir - FEITO

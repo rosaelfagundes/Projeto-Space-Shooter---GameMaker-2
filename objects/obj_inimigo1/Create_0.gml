@@ -8,7 +8,7 @@ vspeed = 3;
 alarm[0] = room_speed * random_range(1, 3);
 
 //Criando o método atirar
-atirando_inimigo1 = function()
+atirando = function()
 {
 	if(y >= 0)
 	{

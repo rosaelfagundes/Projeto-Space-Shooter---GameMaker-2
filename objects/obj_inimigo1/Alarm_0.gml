@@ -3,6 +3,6 @@
 
 //Fazendo o inimigo atirar após um tempo e que esse evento se repita
 
-atirando_inimigo1();
+atirando();
 
 alarm[0] = room_speed * random_range(1, 3);
