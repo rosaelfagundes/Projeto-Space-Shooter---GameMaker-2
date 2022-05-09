@@ -87,3 +87,22 @@ Criação de Métodos
 	12.5 - Apontando para a direção do player - FEITO
 		12.5.1 - Fazendo ela ganhar 90° - FEITO
 	12.6 - Ir na direção do player APENAS quando ele existir - FEITO
+	
+13 - Criar inimigos de maneira procedural -
+	13.1 - Criando inimigos com um intervalo de tempo - FEITO
+		13.1.1 - Criando inimigos de forma aleatória - FEITO
+
+14 - Criar e codar o Objeto Controller -
+	14.1 - Ganhando pontos ao destruir o inimigo - FEITO
+	
+15 - Criando o sistema de pontos - FEITO
+	15.1 - Iniciando a variável pontos - FEITO
+	15.2 - Criando o método de ganhar pontos - FEITO
+	15.3 - Rodando o método, apenas se o obj_controller existir - FEITO
+	15.4 - Fazer com que inimigos diferentes dêem pontos diferentes - FEITO
+	15.5 - Criando uma variável que abrigue os pontos que o inimigo irá entregar ao jogador - FEITO
+	
+16 - Criando sistema de level
+	16.1 - Iniciando a variável level - FEITO
+	16.2 - Exibindo o level - FEITO
+	16.3 - Aumentando o level de acordo com o número de pontos -

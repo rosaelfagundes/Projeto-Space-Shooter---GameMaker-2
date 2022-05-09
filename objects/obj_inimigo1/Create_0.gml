@@ -7,6 +7,9 @@ vspeed = 3;
 //Definir um intervalo para os tiros do inimigo
 alarm[0] = room_speed * random_range(1, 3);
 
+//Criando variável de pontos
+pontos = 12;
+
 //Criando o método atirar
 atirando = function()
 {

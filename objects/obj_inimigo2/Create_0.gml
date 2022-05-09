@@ -7,6 +7,9 @@ event_inherited();
 //Criando variável de checagem
 mover_para_o_lado = true;
 
+//Criando uma variável de pontos
+pontos = 25;
+
 //Fazendo ele criar o próprio tiro
 atirando = function ()
 {
